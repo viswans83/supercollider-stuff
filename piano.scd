@@ -93,6 +93,5 @@ Synth(\pianoNote, [\freq, 440]);
 		(tempo * notes) - overlap;
 	});
 
-}.value(1,5,2)
+}.value(2,3,1)
 )
-
